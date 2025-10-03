@@ -1,7 +1,10 @@
 # DataVerse
 Game bot using Machine Learning Algorithms 
+
 Organized by: St. Vincent Pallotti College of Engineering and Technology , Nagpur Maharashtra
+
 I'm event Coordinator 
+
 🌟 Dataverse Event 2025 – Tic-Tac-Toe AI Workshop 🌟
 
 Dataverse Event 2025! This event is organized to teach beginners and enthusiasts about AI, Machine Learning, and Python programming in a hands-on way through a fun project: a Tic-Tac-Toe bot using Decision Trees and Random Forests.
